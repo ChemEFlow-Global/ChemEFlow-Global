@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🚀 ChemEFlow-Global
 
-<!--
-**ChemEFlow-Global/ChemEFlow-Global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Integrated Engineering OS for Technical Analysis
 
-Here are some ideas to get you started:
+An open-source ecosystem for Chemical, Mechanical, Civil, Electrical, and Industrial engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Project Metrics
+
+![ChemEFlow Stats](https://github-readme-stats.vercel.app/api?username=ChemEFlow-Global&show_icons=true&theme=radical)
+
+## 🌐 Total Reach
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ChemEFlow-Global&color=blue&style=flat-square&label=PROJECT+VIEWS)
